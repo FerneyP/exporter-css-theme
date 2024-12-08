@@ -200,7 +200,7 @@
       "LineHeight": "lineHeight",
       "LetterSpacing": "letterSpacing",
       "ParagraphSpacing": "paragraphSpacing",
-      "BorderWidth": "borderWidth",
+      "BorderWidth": "--wvx",
       "BorderRadius": "borderRadius",
       "Duration": "duration",
       "ZIndex": "zIndex",
