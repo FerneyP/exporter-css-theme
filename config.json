@@ -190,7 +190,7 @@
     "title": "Token Prefixes",
     "description": "When set, will prefix each token of a specific type with provided identifier. Put empty string if not necessary",
     "default": {
-      "Color": "--wvx",
+      "Color": "--wvx-color",
       "Typography": "--wvx",
       "Dimension": "--wvx",
       "Size": "size",
