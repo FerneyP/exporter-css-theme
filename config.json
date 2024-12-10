@@ -210,7 +210,7 @@
       "String": "string",
       "ProductCopy": "productCopy",
       "FontFamily": "fontFamily",
-      "FontWeight": "fontWeight",
+      "FontWeight": "--wvx",
       "TextCase": "textCase",
       "TextDecoration": "textDecoration",
       "Visibility": "visibility",
