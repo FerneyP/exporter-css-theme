@@ -100,7 +100,7 @@
   {
     "key": "indexFileName",
     "type": "string",
-    "default": "index.css",
+    "default": "noindex.css",
     "title": "Index File Name",
     "description": "Name of the index file that will be generated"
   },
@@ -114,7 +114,7 @@
   {
     "key": "baseIndexFilePath",
     "type": "string",
-    "default": "./",
+    "default": "./styles",
     "title": "Base Index File Path",
     "description": "Index file will be written to this directory (relative to export root set by the exporter / pipeline configuration / VSCode extension)"
   },
@@ -192,7 +192,7 @@
     "default": {
       "Color": "--wvx",
       "Typography": "typography",
-      "Dimension": "dimension",
+      "Dimension": "--wvx",
       "Size": "--wvx",
       "Space": "space",
       "Opacity": "opacity",
@@ -209,7 +209,7 @@
       "Gradient": "gradient",
       "String": "string",
       "ProductCopy": "productCopy",
-      "FontFamily": "fontFamily",
+      "FontFamily": "--wvx",
       "FontWeight": "--wvx",
       "TextCase": "textCase",
       "TextDecoration": "textDecoration",
